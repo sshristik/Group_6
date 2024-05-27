@@ -9,7 +9,7 @@ const products = [
     colors: [
         {
           code: "black",
-          img: "./img/Ablack.1.png",
+          img: "./img/C\Users\ersmkhu\Downloads\Group_6-main (1)\Group_6-main\grp6\Ablack.1.png",
         },
         {
           code: "darkblue",
